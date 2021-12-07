@@ -8,11 +8,11 @@ Accepted
 
 # Team
 
-Technical Architect: Abhinav Kumar
-Team Lead: Amit Kumar
-Real pump Technical Support: Raveen Ready, Sundaresan
-Developer: Neethu Antony
-Reviewer: Abhinav Kumar, Raveen Ready, Sundaresan, Amit Kumar
+Technical Architect: Abhinav Kumar <br/>
+Team Lead: Amit Kumar <br/>
+Real pump Technical Support: Raveen Ready, Sundaresan <br/>
+Developer: Neethu Antony <br/>
+Reviewer: Abhinav Kumar, Raveen Ready, Sundaresan, Amit Kumar <br/>
 
 # Context
 
